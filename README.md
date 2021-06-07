@@ -3,7 +3,7 @@
 This is the repo in which I post my data science, machine learning and deep learning projects
 # Projects :
 
- - [Buying_a car_as_a_DataScientist](https://github.com/leandroamoras/Data-Science-Projcts/tree/master/Forbes%20Billionaires%20of%202021)
+ - [Forbes Billionaries 2021](https://github.com/leandroamoras/Data-Science-Projcts/tree/master/Forbes%20Billionaires%20of%202021)
  
  # About me :
  
