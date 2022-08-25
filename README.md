@@ -8,6 +8,10 @@ This is the repo in which I post my data science, machine learning and deep lear
  
  # About me :
  
-I am a Data Engineer with market experience in large companies such as Enrst & Young and Porto Seguro.
+I am a Computer Science student at the Pontifical Catholic University of Goiás. I come from a great trajectory in the market, going through the positions of Data Analyst I, IT Consultant II, Data Scientist I in large companies such as [Enrst & Young](https://pt.wikipedia.org/wiki/Ernst_%26_Young), currently I work as Data Engineer II at [Porto Seguro](https://pt.wikipedia.org/wiki/Porto_(empresa)).
 
-I focus on the following topics: Cloud, FinOps, BI and DevOps
+I have tremendous passion and understanding of data-driven processes. I seek to get involved in projects with a significant impact on business and society decisions.
+
+In my spare time, I like to play video games, play guitar, produce electronic music or play football.
+
+Well that's me! Welcome to my codespace.
